@@ -1,1 +1,3 @@
 Primeiro bloco de inicialização finalizado.
+
+Segundo bloco concluído -> configuração de rede
