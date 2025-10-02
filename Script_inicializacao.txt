@@ -3,3 +3,5 @@ Primeiro bloco de inicialização finalizado.
 Segundo bloco concluído -> configuração de rede
 
 Terceiro bloco -> extração de dados via data mining
+
+Quarto bloco -> chave de acesso
